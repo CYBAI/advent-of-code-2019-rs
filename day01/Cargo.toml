@@ -1,0 +1,8 @@
+[package]
+name = "day01"
+version = "0.1.0"
+authors = ["CYBAI <cyb.ai.815@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+aoc_utils = { path = "../aoc_utils" }
